@@ -1,0 +1,30 @@
+{
+  "name": "bulkmove",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-wunmi/bulkmove.git"
+  },
+  "keywords": [
+    "ios",
+    "iap",
+    "bulk",
+    "upload",
+    "ios",
+    "in-app",
+    "purchase",
+    "bulk",
+    "upload"
+  ],
+  "author": "Adewunmi Akinsanya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-wunmi/bulkmove/issues"
+  },
+  "homepage": "https://github.com/the-wunmi/bulkmove#readme"
+}
